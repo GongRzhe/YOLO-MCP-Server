@@ -33,7 +33,7 @@ A powerful YOLO (You Only Look Once) computer vision service that integrates wit
    ```bash
    # If you have the files, copy them to this directory
    # If using git:
-   git clone https://github.com/yourusername/yolo-mcp-service.git .
+   git clone https://github.com/GongRzhe/YOLO-MCP-Server.git .
    ```
 
 3. Create a virtual environment:
