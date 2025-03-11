@@ -1,6 +1,9 @@
-# YOLO MCP Service for Claude
+# YOLO MCP Service
 
 A powerful YOLO (You Only Look Once) computer vision service that integrates with Claude AI through Model Context Protocol (MCP). This service enables Claude to perform object detection, segmentation, classification, and real-time camera analysis using state-of-the-art YOLO models.
+
+![](https://badge.mcpx.dev?type=server 'MCP Server')
+
 
 ## Features
 
